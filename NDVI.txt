@@ -1,0 +1,1 @@
+# NDVI time stamps, one date per line, format: YYYYMMDD
